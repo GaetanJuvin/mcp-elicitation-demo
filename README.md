@@ -88,5 +88,3 @@ if ticker_symbol.empty?
 
 - This example follows the MCP elicitation flow described in the spec and uses a simple prompt/response interaction. See the draft spec for details: [MCP Elicitation](https://modelcontextprotocol.io/specification/draft/client/elicitation).
 - The client prints colored JSON-RPC traffic in verbose mode to make the flow easy to inspect.
-
-# mcp-elicitation-demo
