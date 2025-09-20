@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.14.1)
+    open3 (0.2.1)
+    optparse (0.6.0)
+
+PLATFORMS
+  ruby
+  x86_64-darwin-24
+
+DEPENDENCIES
+  json
+  open3
+  optparse
+
+RUBY VERSION
+   ruby 3.4.2p28
+
+BUNDLED WITH
+   2.6.2
